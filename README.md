@@ -1,5 +1,5 @@
 # UE5 Stuff
- Some stuff I made in UE5
+ Will add some of the UE5 stuff that I work upon here.
 
  * Comical Post Processing, Highlight Overlay, Occluded Outline
 
